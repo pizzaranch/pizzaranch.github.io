@@ -4,6 +4,7 @@
 ## Stone Soup
 
 [Stone Soup by Marcia Brown](https://www.amazon.com/dp/0689711034/)
+
 [Grandpa Joe](https://docs.google.com/document/d/1csRjBLli44oVr-jmAFpW6jpABAaKC_GzWg10AlrUrVg/edit) I transcribed a short autobiographical piece he wrote from some typewritten pages
 
 ## Links to the major services
