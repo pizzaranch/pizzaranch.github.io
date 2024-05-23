@@ -2,7 +2,7 @@
 
 ## Links to the major services
 
-* [ChatGPT](https://chat.openai/)
+* [ChatGPT](https://chat.openai.com/)
 * [Microsoft Copilot](https://copilot.microsoft.com/) (uses GPT as its language model)
 * [Google Gemini](https://gemini.google.com/app) 
 * [Claude](https://claude.ai)
