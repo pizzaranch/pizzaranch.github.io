@@ -90,3 +90,5 @@ In case you're curious, here's what perplexity told me using GPT 4o as a model:
 [Stone Soup by Marcia Brown](https://www.amazon.com/dp/0689711034/)
 
 [Grandpa Joe](https://docs.google.com/document/d/1csRjBLli44oVr-jmAFpW6jpABAaKC_GzWg10AlrUrVg/edit) I transcribed a short autobiographical piece he wrote from some typewritten pages
+
+[Adaptive Traffic Signals](https://chaklader.medium.com/the-role-of-ai-in-adaptive-traffic-signal-control-ce2aa1f74b2f) a deep dive if you're interested
