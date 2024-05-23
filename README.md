@@ -19,7 +19,7 @@
 
 Here are [a whole bunch of AI services and ideas](tools.html), if you want to dig even deeper.
 
-One of the first times I interacted with ChatGPT, I had [Charles Dickens write about Bitcoin][bitcoin.html] and I thought it was kind of brilliant.
+One of the first times I interacted with ChatGPT, I had [Charles Dickens write about Bitcoin](bitcoin.html) and I thought it was kind of brilliant.
 
 ## Example prompts we used in the talk
 
