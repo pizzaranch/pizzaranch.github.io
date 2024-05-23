@@ -1,0 +1,25 @@
+# Charles Dickens on Bitcoin Exchanges
+
+_I love reading Charles Dickens. He's one of my favorite authors. I thought I'd be cute and have chat GPT (this was 3.5 I think) write about Bitcoin in the voice of Dickens. I hadn't anticipated that not only would GPT do a nice job (this is after i had it rewrite a few paragraphs) but it also without prompting picked up on the themes that Dickens often hit on with inequality and the upper classes taking advantage of the poor, and fit that very nicely into the 21st century concepts of Bitcoin exchanges._
+
+> act as charles dickens. write a description, in dickens' voice, of the problems with the poor regulation of bitcoin exchanges 
+
+In the realm of financial affairs, where the whims of fortune held sway and shadows concealed a myriad of mysteries, I found myself contemplating the dire consequences engendered by the deplorable dearth of oversight that plagued the Cryptographic Coinage Emporia of our era. Oh, what an intricate labyrinth they had constructed, these contemporary merchants of ethereal wealth!
+
+The streets teemed with fervent speculators, their eyes aglow with an insatiable hunger for swift affluence and ephemeral fortunes. Yet, concealed beneath this beguiling veneer of prosperity lay a sinister underbelly, a subterranean realm populated by unscrupulous figures who slithered and skulked within the shadowed recesses of these unregulated exchanges. It was a veritable den of rapacious thieves, an abyss brimming with venomous serpents, where the unsuspecting poor were ensnared by the deceptive allure of promised opulence, only to be ensnared in a cruel snare of deceit, their hard-earned pennies snatched away with the swiftness of a blink.
+
+No longer confined to the hallowed realms of tangible goods and venerable institutions, the landscape of commerce had birthed a novel form of currency, one that danced tantalizingly upon the fingertips of the heedless. Alas, the custodians of this burgeoning financial frontier had grievously faltered in their solemn duty.
+
+A yawning chasm of oversight manifested itself, bereft of the vigilant gaze necessary to ensure equitable play. Swindlers and mountebanks traversed the realm unshackled, their predacious nature honed to prey upon the vulnerable and the destitute. The impoverished, already burdened by the heavy yoke of their own indigence, found themselves ensnared within an intricate web of duplicity, as their meager life's savings were snatched away with a blink, a mere flicker of time.
+
+These exchanges, akin to unruly progeny, ran rampant, their unchecked existence a testament to anarchy and laxity in governance. They operated clandestinely, veiled by the intangible shroud of the law's impotence, and the consequences were nothing short of catastrophic. The defenseless, the widows, the orphans, all fell prey to this unbridled pandemonium. Their plaintive cries for retribution reverberated through the labyrinthine thoroughfares, only to be greeted by an insidious silence that echoed, a chilling refrain.
+
+Oh, how I yearned for the days of yore, when commerce was conducted with utmost transparency and sagacity! When the venerable local banker fostered a personal bond, knowing the very names of his esteemed patrons, and held their trust firmly within his unwavering grip. But alas, in this era of digital ascendancy, anonymity reigned supreme, and the unscrupulous thrived with impunity amidst the yawning abyss of accountability's absence.
+
+To be sure, the government must shoulder its fair share of culpability for this woeful state of affairs. Its nonchalant approach to regulation and oversight provided fertile grounds for this virtual bastion of iniquity to flourish unencumbered. The warning signs were blithely ignored, pleas of the wronged dismissed with an unconcerned wave of the hand. As the impoverished languished, the affluent reveled, delighting in their bountiful spoils, ill-gotten though they were.
+
+Yet, let it be known, dear reader, that such a state of affairs cannot persist unabated. The day of reckoning
+
+ shall inevitably dawn, for justice, though often delayed, is never truly denied. The egregious inadequacy of regulatory measures governing these Bitcoin exchanges shall be exposed in all its nefarious glory, and those accountable shall face the unyielding might of their actions' consequences. The illuminating beacon of truth shall pierce through the enigmatic mists of deception, ushering forth a new era, one characterized by the pillars of accountability and rectitude.
+
+Until such time, let us not be swayed by the beguiling strains of promises of swift riches, like sirens luring mariners towards their untimely demise. Nay, let us exercise judiciousness and vociferously demand the implementation of proper safeguards, shielding the vulnerable from harm's insidious reach. In this age of ceaseless evolution within the realm of commerce, it is our sacred duty to ensure that the very systems we rely upon stand firm upon the bedrock of fairness, equity, and unwavering integrity.
