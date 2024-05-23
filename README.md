@@ -1,12 +1,5 @@
 # Harnessing AI - Links and resources from the talk
 
-
-## Stone Soup
-
-[Stone Soup by Marcia Brown](https://www.amazon.com/dp/0689711034/)
-
-[Grandpa Joe](https://docs.google.com/document/d/1csRjBLli44oVr-jmAFpW6jpABAaKC_GzWg10AlrUrVg/edit) I transcribed a short autobiographical piece he wrote from some typewritten pages
-
 ## Links to the major services
 
 * [ChatGPT](https://chat.openai/)
@@ -16,53 +9,84 @@
 
 ## other handy tools and resources
 
-* [Perplexity](https://www.perplexity.ai/) - remembers basic facts about you, gives you access to multiple premium models, and let's you store contexts for later re-use
-* [Pi](https://pi.ai/) - a personal assistant for advice, answers, and organization
+* [Perplexity](https://www.perplexity.ai/) - remembers basic facts about you, gives you access to multiple premium models, and let's you store contexts for later re-use. I have several different "collections" in Perplexity that each have their own context prompt so i don't have to type all that in every time.
+* [Pi](https://pi.ai/) - a personal assistant for advice, answers, and organization. I like to use Pi for anything that involves a longer conversation. It's just better at that than a lot of the other models, and--at least for now--it's free.
 * [Poe](https://poe.com/) - similar functionality where you can choose from several models
 * [Google Notebook LM](https://notebooklm.google.com/) let's you upload documents to summarize and ask questions about
 * [Google Colab](https://colab.research.google.com/) do data anlytics with an AI assistant to help with what you don't already know
 
-## only for the very nerdy
+## even more
 
-* [Hugging Face](https://huggingface.co/) a community dedicated to spreading the word about AI
-* [Open Llama](https://github.com/openlm-research/open_llama) an open source platform for running models locally
-* [Crew AI](https://www.crewai.com/)  build a team of multiple versions of a model
-* [Open Router](https://openrouter.ai/)  chat with several models at once or use them in your own code.
+Here are [a whole bunch of AI services and ideas](tools.html), if you want to dig even deeper.
 
+One of the first times I interacted with ChatGPT, I had [Charles Dickens write about Bitcoin][bitcoin.html] and I thought it was kind of brilliant.
 
-## guides to better AI prompting
+## Example prompts we used in the talk
 
-* [Anthropic Prompt Library](https://docs.anthropic.com/claude/page/prompts) for ideas on using Claude or any other model
-* [AIPrompts.com](https://allprompts.com/) tons more ideas and examples
+Here are the prompts we used, in case you want to try them or modify them for your needs.
 
-## AI News Youtube channels
-* [Skill Leap AI](https://www.youtube.com/@SkillLeapAI)
-* [Matt Wolfe](https://www.youtube.com/@mreflow)
+### Director of Communications
+> you are Director Of Communications for Pizza Ranch, a pizza and chicken buffet in Peoria, IL (obviously this is to be replaced with your location). Your task is to craft statements for our social media presence. When prompted to create a statment, always follow these guidelines
+> 
+> ask questions to clarify until you understand the task
+> 
+> * keep the tone light and conversational
+> * do not use big words
+> * do not use silly or slang words
+> * responses should be kept to about 3 or 4 sentences unless otherwise instructed
+> * end with the phrase "God Bless"
+ 
 
-## seriously nerdy
+### Practicing active listening skills
 
+> act as my conversation partner. You are a customer at the buffet restaurant that I manage
+>
+> Give me a scenario where i can practice active listening skills. Provide a dialog with someone speaking, and I'll respond with active listening responses to demonstrate that I understand their points. Let me know if I can do something better or more smoothly
 
-[CrewAI](https://www.crewai.com/) - lets you set up multiple instances of a language model to work together (e.g. copywriter / editor / proofreader)
+### Write Better Emails
+
+> rewrite the following email to be more concise, polite, and to-the-point without altering the core meaning.
  
-[langchain](https://python.langchain.com/)  Langchain is a system for encoding our own documents and data and keeping them internal. Then we can control how much access a model has to our stuff, or even run our own model internally
- 
-[TextCortex](https://textcortex.com/) - swiss army knife type solution for connecting an AI model to our stuff. I haven’t looked into this one too far
- 
-[OpenRouter](https://openrouter.ai/)  this is the one I mentioned that lets you use any of the major models through an API interface.
- 
-[openrouter and langchain explainer](https://medium.com/@gal.peretz/openrouter-langchain-leverage-opensource-models-without-the-ops-hassle-9ffbf0016da7) on medium.  using openrouter to power a langchain-connected bot
- 
-[MS AI](https://learn.microsoft.com/en-us/power-automate/get-started-with-copilot)  - Microsoft has some of its AI services available through Power Automate, an app we already have in our Office suite.  Or we could use an openrouter connection with it.  Still digesting this and trying to understand what I’ll need Kyle’s approval for
- 
-[Voice Flow](https://www.voiceflow.com/) - as I understand it, this one is a system to answer customer service calls and route the user to solutions, including automatic ones
- 
-[ollama](https://ollama.com/) - run several different open-source LLMs locally
- 
-[unriddle](https://www.unriddle.ai/) - chat with a document
- 
-[Eleven Labs](https://elevenlabs.io/) - AI voices (aka half of Youtube now)
- 
-[Algolia](https://www.algolia.com/) - a custom search that you can set up with our own internal documents for customer service type things or maybe searching RanchNet
- 
-[Literally Anything](https://www.literallyanything.io/)   and     [replit](https://replit.com/)- two of a hundred different “no code” tools to build a web app. They all make clunky, junky web apps that drive me crazy, but it’s good for who it’s for
- 
+### Learn Spanish Better
+
+> you are a spanish teacher attempting to coach me in beginning and low-intermediate spanish.  
+> 
+> Read the article at the link. Then pick out the following:
+> 
+> * 5 to 10 common words used in the article. List these along with their english translations
+> * 5 to 10 commonly used phrases. List these phrases along with their english translations
+> * 5 to 10 instances of irregular verbs. List the word in spanish as it is used, the infinitive of the word, and its english translation
+> 
+> Here is the article:  https://www.bbc.com/mundo/articles/c51nnddz72go
+
+### Organize your emails
+
+This works in Google Gemini IF you use gmail and IF you allow Gemini to look at your email through its extensions. There are lots of ways to expose your email to an LLM. Just be careful of privacy concerns.  Once the LLM can see your emails, you can use a similar prompt to this.
+
+> I'd like a summary and any suggested actions for each email in my inbox received since [Date]
+
+### Manage Your Time
+
+There's no magic to this prompt. But notice how we're referencing how it should look at the question (through the teachings of Cal Newport, David Allen, Greg Keown, etc) and telling it what role or walk of life to apply those ideas to.
+
+> how can i use cal newport's ideas  for getting organized in my role as a general manager?
+
+You could replace the expert with anyone who has a significant body of work in any field: Stephen King, Yogi Berra, Billy Graham, Hulk Hogan, etc. 
+
+### Parker saying "lol"
+
+> My Co-worker Parker uses odd words like "lmao" and "lol" and "afaik". Is he having a stroke?
+
+In case you're curious, here's what perplexity told me using GPT 4o as a model:
+
+> Your co-worker Parker is not having a stroke; he is simply using common internet slang abbreviations. Here are the meanings of the terms he is using:
+> 
+> [...]
+> 
+> These abbreviations are part of the evolving language of digital communication and are widely used by people to convey emotions and reactions quickly and efficiently.
+
+## non-AI stuff in the talk
+
+[Stone Soup by Marcia Brown](https://www.amazon.com/dp/0689711034/)
+
+[Grandpa Joe](https://docs.google.com/document/d/1csRjBLli44oVr-jmAFpW6jpABAaKC_GzWg10AlrUrVg/edit) I transcribed a short autobiographical piece he wrote from some typewritten pages
