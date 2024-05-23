@@ -1,6 +1,6 @@
 # Charles Dickens on Bitcoin Exchanges
 
-_I love reading Charles Dickens. He's one of my favorite authors. I thought I'd be cute and have chat GPT (this was 3.5 I think) write about Bitcoin in the voice of Dickens. I hadn't anticipated that not only would GPT do a nice job (this is after i had it rewrite a few paragraphs) but it also without prompting picked up on the themes that Dickens often hit on with inequality and the upper classes taking advantage of the poor, and fit that very nicely into the 21st century concepts of Bitcoin exchanges._
+_I love reading Charles Dickens. He's one of my favorite authors. I thought I'd be cute and have chat GPT (this was 3.5 I think) write about Bitcoin in the voice of Dickens. I hadn't anticipated that not only would GPT do a nice job (this is after i had it rewrite a few paragraphs) but it also without prompting picked up on the themes that Dickens often hit on with inequality and how the law often favors the upper classes over the poor, and fit that very nicely into the 21st century concepts of Bitcoin exchanges._
 
 > act as charles dickens. write a description, in dickens' voice, of the problems with the poor regulation of bitcoin exchanges 
 
